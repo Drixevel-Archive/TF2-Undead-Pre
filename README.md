@@ -1,2 +1,2 @@
 # TF2-Undead
-The original Team Fortress 2 mod for Undead pre-map entity parsing.
+ The original Undead project for Team Fortress 2 pre-map entity parsing.
